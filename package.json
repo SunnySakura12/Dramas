@@ -1,0 +1,1 @@
+{\n  "name": "streaming-platform",\n  "private": true,\n  "dependencies": {\n    "firebase": "^9.0.0",\n    "react": "^17.0.0",\n    "react-dom": "^17.0.0",\n    "react-scripts": "^4.0.0"\n  }\n}
